@@ -39,7 +39,7 @@ Olá, me chamo Marcos, tenho 20 anos e sou natural de Curitiba. Atualmente, esto
     title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeScript/typeScript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
